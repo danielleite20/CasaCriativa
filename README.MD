@@ -48,9 +48,9 @@ Acesse a aplicação via **localhost:3000** no navegador.
 
 ### Telas
 
-![](imgs/print1.png)
-![](imgs/print2.png)
-![](imgs/print3.png)
+![](imgs/print1.PNG)
+![](imgs/print2.PNG)
+![](imgs/print3.PNG)
 
 
 
